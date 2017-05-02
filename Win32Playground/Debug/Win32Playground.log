@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kevin\documents\visual studio 2017\projects\win32playground\win32playground\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\kevin\documents\visual studio 2017\projects\win32playground\win32playground\main.cpp(196): warning C4060: switch statement contains no 'case' or 'default' labels
+  Win32Playground.vcxproj -> C:\Users\kevin\documents\visual studio 2017\Projects\Win32Playground\Debug\Win32Playground.exe
+  Win32Playground.vcxproj -> C:\Users\kevin\documents\visual studio 2017\Projects\Win32Playground\Debug\Win32Playground.pdb (Partial PDB)
